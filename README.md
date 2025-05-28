@@ -22,8 +22,6 @@ bash-completion
 
 openssh-server  
 
-neofetch  
-
 fastfetch  
 
 virt-manager  
