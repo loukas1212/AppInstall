@@ -23,7 +23,6 @@ sudo dnf install -y btop
 sudo dnf install -y vlc
 sudo dnf install -y bash-completion
 sudo dnf install -y openssh-server
-sudo dnf install -y neofetch
 sudo dnf install -y fastfetch
 sudo dnf install -y virt-manager
 sudo dnf install -y docker
@@ -44,6 +43,8 @@ flatpak install -y flathub org.prismlauncher.PrismLauncher
 flatpak install -y flathub com.brave.Browser
 flatpak install -y flathub io.github.shiftey.Desktop
 flatpak install -y flathub page.codeberg.libre_menu_editor.LibreMenuEditor
+flatpak install -y flathub com.discordapp.Discord
+
 
 clear
 sleep 5

@@ -26,7 +26,7 @@ while true; do
             read -p "Appuyez sur Entrée pour revenir au menu..."
             ;;
         4)
-            bash /cript/flatpak-it/ub-kde-fp.sh
+            bash script/flatpak-it/ub-kde-fp.sh
             read -p "Appuyez sur Entrée pour revenir au menu..."
             ;;
         5)

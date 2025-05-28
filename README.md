@@ -10,28 +10,48 @@ version actuel : BETA 0.0.1
 
 le script permet d'installer actuellement les application suivante :
 
-firefox  
-htop  
-btop  
-vlc  
+firefox
+
+htop 
+
+btop
+
+vlc 
+
 bash-completion  
+
 openssh-server  
+
 neofetch  
+
 fastfetch  
+
 virt-manager  
+
 docker.io  
-nautilus  
+
 obs-studio  
-gnome-disk-utility  
+
+gnome-disk-utility 
+
 virtualbox
+
 VisualStudio
+
 vencord
+
 Gnome Extension Manager
+
 clicker ( juste un simple autoclicker)
+
 PrismLauncher
+
 Brave
+
 GitHub Desktop
+
 Menu Libre Editor
+
 Steam (uniquement pour le script ubuntu)
 discord (uniquement pour le script ubuntu)
 

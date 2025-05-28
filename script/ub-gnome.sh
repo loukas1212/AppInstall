@@ -23,7 +23,6 @@ sudo apt install -y btop
 sudo apt install -y vlc
 sudo apt install -y bash-completion
 sudo apt install -y openssh-server
-sudo apt install -y neofetch
 sudo apt install -y fastfetch
 sudo apt install -y virt-manager
 sudo apt install -y docker.io
@@ -43,6 +42,8 @@ flatpak install -y flathub org.prismlauncher.PrismLauncher
 flatpak install -y flathub com.brave.Browser
 flatpak install -y flathub io.github.shiftey.Desktop
 flatpak install -y flathub page.codeberg.libre_menu_editor.LibreMenuEditor
+flatpak install -y flathub com.discordapp.Discord
+
 clear
 
 sleep 5

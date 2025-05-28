@@ -34,7 +34,7 @@ Brave
 GitHub Desktop
 Menu Libre Editor
 Steam (uniquement pour le script ubuntu)
-discord (uniquement pour le script ubuntu)
+discord
 
 <!> Je compte plus tard faire une version du script dédier au gaming 
 ( installation de steam, discord, launcher, etc... ) 
