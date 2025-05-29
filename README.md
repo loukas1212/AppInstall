@@ -1,7 +1,7 @@
 # AppInstall
 Un script pour installer un paquet d'application sur linux
 
-version actuel : BETA 0.0.1-1
+version actuel : v0.0.2
 
 ### Actuellement, ce script supporte uniquement les distribution suivante :
 ### - Ubuntu
