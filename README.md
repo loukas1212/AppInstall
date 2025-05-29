@@ -55,4 +55,6 @@ Steam (uniquement pour le script ubuntu)
 
 Fedora Media Writer
 
+Gnome-Boxes (machines)
+
 ### <!> Je compte plus tard faire une version du script dédier au gaming ( installation de steam, discord, launcher, etc... ) et une version dédier à la bureautique est au dévelopement ( libreoffice, visualstudiocode, git, docker, etc... ) <!>

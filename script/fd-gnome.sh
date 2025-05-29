@@ -29,6 +29,7 @@ sudo dnf install -y docker
 sudo dnf install -y obs-studio
 sudo dnf install -y gnome-disk-utility
 sudo dnf install -y VirtualBox
+sudo dnf install -y gnome-boxes
 
 clear
 sleep 1

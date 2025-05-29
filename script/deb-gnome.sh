@@ -27,7 +27,7 @@ sudo apt install -y docker.io
 sudo apt install -y obs-studio
 sudo apt install -y gnome-disk-utility
 sudo apt install -y virtualbox
-
+sudo apt install -y gnome-boxes
 clear
 sleep 1 
 
