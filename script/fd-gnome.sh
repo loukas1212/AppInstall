@@ -43,7 +43,7 @@ flatpak install -y flathub org.prismlauncher.PrismLauncher
 flatpak install -y flathub com.brave.Browser
 flatpak install -y flathub io.github.shiftey.Desktop
 flatpak install -y flathub page.codeberg.libre_menu_editor.LibreMenuEditor
-flatpak install -y flathub com.discordapp.Discord
+flatpak install -y flathub org.fedoraproject.MediaWriter
 
 
 clear

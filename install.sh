@@ -8,7 +8,9 @@ while true; do
     echo "Option 3 : lancer le script d'installation de flatpak pour Ubuntu GNOME"
     echo "Option 4 : lancer le script d'installation de flatpak pour Kubuntu"
     echo "Option 5 : lancer le script d'installation de flatpak pour Fedora"
-    echo "Option 6 : Quitter"
+    echo "Option 6 : lancer le script d'installation de flatpak pour Debian"
+    echo "Option 7 : lancer le script d'installation d'application pour Debian GNOME"
+    echo "Option 8 : Quitter"
     echo "================================"
     read -p "Veuillez entrer un numéro (1-6) : " choix
 
@@ -33,7 +35,18 @@ while true; do
             bash script/flatpak-it/fd-fp.sh
             read -p "Appuyez sur Entrée pour revenir au menu..."
             ;;
+
         6)
+            bash script/flatpak-it/deb-gm-fp.sh
+            read -p "Appuyez sur Entrée pour revenir au menu..."
+            ;;
+
+        7)
+            bash script/deb-gnome.sh
+            read -p "Appuyez sur Entrée pour revenir au menu..."
+            ;;
+
+        8)
             echo "Fermeture du menu."
             clear
             exit 0

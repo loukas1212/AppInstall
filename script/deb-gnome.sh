@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# installation de git et installation de l'aur yay
-
 echo "installation des application dans 5 seconde.. ( pour annuler l'installation des applications, fermer le terminal )"
 echo "5"
 sleep 1
@@ -15,7 +13,7 @@ echo "1"
 sleep 1
 clear
 
-# installation des applications avec pacman sur l'os
+# installation des applications avec apt sur l'os
 echo "installation des apps pacman.."
 sudo apt install -y firefox
 sudo apt install -y htop

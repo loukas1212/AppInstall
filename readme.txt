@@ -17,7 +17,6 @@ btop
 vlc  
 bash-completion  
 openssh-server  
-neofetch  
 fastfetch  
 virt-manager  
 docker.io  
@@ -34,7 +33,7 @@ Brave
 GitHub Desktop
 Menu Libre Editor
 Steam (uniquement pour le script ubuntu)
-discord
+fedora media writer
 
 <!> Je compte plus tard faire une version du script dédier au gaming 
 ( installation de steam, discord, launcher, etc... ) 
