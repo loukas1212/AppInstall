@@ -1,7 +1,7 @@
 # AppInstall
 Un script pour installer un paquet d'application sur linux
 
-version actuel : v0.0.2
+version actuel : BETA 0.0.3
 
 ### Actuellement, ce script supporte uniquement les distribution suivante :
 ### - Ubuntu
@@ -56,5 +56,11 @@ Steam (uniquement pour le script ubuntu)
 Fedora Media Writer
 
 Gnome-Boxes (machines)
+
+Video Downloader
+
+Audacity
+
+Discord ( uniquement pour fedora pour le moment )
 
 ### <!> Je compte plus tard faire une version du script dédier au gaming ( installation de steam, discord, launcher, etc... ) et une version dédier à la bureautique est au dévelopement ( libreoffice, visualstudiocode, git, docker, etc... ) <!>

@@ -30,6 +30,7 @@ sudo apt install -y obs-studio
 sudo apt install -y gnome-disk-utility
 sudo apt install -y virtualbox
 sudo apt install -y gnome-boxes
+sudo apt install -y audacity
 
 clear
 sleep 1 
@@ -44,6 +45,8 @@ flatpak install -y flathub com.brave.Browser
 flatpak install -y flathub io.github.shiftey.Desktop
 flatpak install -y flathub page.codeberg.libre_menu_editor.LibreMenuEditor
 flatpak install -y flathub org.fedoraproject.MediaWriter
+flatpak install -y flathub com.github.unrud.VideoDownloader
+
 
 clear
 

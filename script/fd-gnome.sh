@@ -17,6 +17,8 @@ clear
 
 # Installation des applications avec DNF
 echo "Installation des apps via dnf..."
+sudo dnf install -y https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+sudo dnf install -y discord
 sudo dnf install -y firefox
 sudo dnf install -y htop
 sudo dnf install -y btop
@@ -30,6 +32,7 @@ sudo dnf install -y obs-studio
 sudo dnf install -y gnome-disk-utility
 sudo dnf install -y VirtualBox
 sudo dnf install -y gnome-boxes
+sudo dnf install -y audacity
 
 clear
 sleep 1
@@ -45,6 +48,8 @@ flatpak install -y flathub com.brave.Browser
 flatpak install -y flathub io.github.shiftey.Desktop
 flatpak install -y flathub page.codeberg.libre_menu_editor.LibreMenuEditor
 flatpak install -y flathub org.fedoraproject.MediaWriter
+flatpak install -y flathub com.github.unrud.VideoDownloader
+
 
 
 clear
