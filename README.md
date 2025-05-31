@@ -9,6 +9,7 @@ version actuel : BETA 0.0.1-1
 ### - Debian
 ### D'autre distribution vise à ètre supporter dans l'avenir
 
+### Une Version avec interface ( dossier AppInstall GUI ) et désormais disponible ! ( cette version est au début de son code, les script flatpak ce passe toujours sans interface graphique )
 le script permet d'installer actuellement les application suivante :
 
 firefox
