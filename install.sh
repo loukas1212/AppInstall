@@ -2,7 +2,7 @@
 
 while true; do
     clear
-    echo "==== AppInstall Beta v0.0.1 ===="
+    echo "==== AppInstall Beta ===="
     echo "Option 1 : lancer le script d'installation d'application pour Ubuntu GNOME"
     echo "Option 2 : lancer le script d'installation d'application pour Fedora GNOME"
     echo "Option 3 : lancer le script d'installation de flatpak pour Ubuntu GNOME"
