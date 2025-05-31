@@ -1,7 +1,7 @@
 # AppInstall
 Un script pour installer un paquet d'application sur linux
 
-version actuel : BETA 0.0.3
+version actuel : BETA 0.0.1-1
 
 ### Actuellement, ce script supporte uniquement les distribution suivante :
 ### - Ubuntu
@@ -51,7 +51,7 @@ GitHub Desktop
 
 Menu Libre Editor
 
-Steam (uniquement pour le script ubuntu)
+Steam
 
 Fedora Media Writer
 

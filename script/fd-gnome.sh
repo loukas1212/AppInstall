@@ -18,6 +18,9 @@ clear
 # Installation des applications avec DNF
 echo "Installation des apps via dnf..."
 sudo dnf install -y https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm -y
+sudo dnf config-manager setopt fedora-cisco-openh264.enabled=1
+sudo dnf install -y steam
 sudo dnf install -y discord
 sudo dnf install -y firefox
 sudo dnf install -y htop
